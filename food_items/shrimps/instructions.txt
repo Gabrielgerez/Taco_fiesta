@@ -1,9 +1,2 @@
-ingredients:
-*shrimps
-*taco seasoning
-*oil 
-
-instructions:
 * fry shrimps in oil and taco seasoning for 3 minutes # shrimps becomes overdone quickly
-
 
